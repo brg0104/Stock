@@ -1,1 +1,9 @@
 this is backend
+
+to push in github
+
+git add .
+
+git commit -m "your commit message"
+
+git push
